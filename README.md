@@ -15,7 +15,7 @@ A teal-themed sibling of the VALO family languages (VALO Ads "Aurora", VALO Pock
 - **Animated brand logo** in the hero (circuit traces draw in, nodes pulse, data sparks converge, breathing glow, orbit ring).
 - **Animated ecosystem hub** (VALO Tech at the center, products orbiting with flowing particles).
 - Type: **IBM Plex Sans + Plex Mono** (self-hosted). Icons: **Phosphor** (inline sprite).
-- Fully accessible: skip link, focus-visible rings, ARIA tabs, native `<details>` accordion, semantic landmarks; everything respects `prefers-reduced-motion` and is readable without JS.
+- Fully accessible: localized skip link + `aria-label`s, focus-visible rings, ARIA tabs, native `<details>` accordion, semantic landmarks; everything respects `prefers-reduced-motion` and is readable without JS.
 
 ## Structure
 
@@ -26,7 +26,7 @@ assets/
   site.js               Behavior: i18n apply, language switcher, 3-way theme,
                         scroll-reveal, header scroll, cursor ribbon, mobile menu,
                         tabs, back-to-top, ecosystem-hub particle animation
-  i18n.js               20-locale config + English & Vietnamese dictionaries
+  i18n.js               20-locale config + full dictionaries (English is the source)
   valo-symbol-teal.png  Brand mark, teal (light surfaces)
   valo-symbol-white.png Brand mark, white (dark / teal surfaces)
   valo-lockup-white.png Full vertical lockup, white
@@ -44,8 +44,8 @@ VALO Tech Content for Homepage.html  BD-prepared source content
 20 ecosystem locales (order, RTL, endonyms synced with the VALO standard):
 SEA-priority `en zh zt vi th id ms tl` + Global `hi es ar fr bn pt ru ur de ja tr ko`.
 
-- The switcher lists all 20. **English and Vietnamese are authored in full** (every visible string).
-- The other 18 are **seeded**: the switcher works and the page falls back to English (marked `EN` in the menu) until each is translated through the ecosystem LibreTranslate + admin-review path. This matches how the sibling products ship translations.
+- **English is the source of truth.** Every other locale is authored in full to a formal, natural register, with product names and technical terms (agent, cloud, audit, CRM, ERP, PoC, BI, markdown) kept in English.
+- All 20 are complete: every visible string plus the skip link and the `aria-label`s on controls, regions, and diagrams are translated, applied by `site.js` via `data-i18n` / `data-i18n-html` / `data-i18n-aria`.
 - RTL (`ar`, `ur`) flips `dir`; the user's choice persists in `localStorage`, otherwise the browser language is matched.
 
 ## Preview locally
@@ -67,4 +67,4 @@ python3 -m http.server 8000
 - **Production URL** `https://valotech.org/` (canonical, Open Graph, `sitemap.xml`, `robots.txt`, JSON-LD).
 - **VALO Compliance** is shown as a new product with no outbound link yet (a "New" badge). Add its URL once the site is live.
 - The four live products link to `valoads.io`, `valopocket.io`, `shimmra.live`, `amavo.app`. (To keep the whole ecosystem in sync, add a VALO Compliance card to the other four products' footer strips too.)
-- More languages: add a `vi`-style block to `assets/i18n.js` `dict` for any locale.
+- Translations: all 20 locales are authored in full; to revise copy, edit the locale's block in `assets/i18n.js` (English first — it is the source).

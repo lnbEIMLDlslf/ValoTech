@@ -23,6 +23,7 @@
   }
 
   var en = {
+    "a11y.skip":"Skip to content","a11y.home":"VALO Tech home","a11y.navPrimary":"Primary","a11y.theme":"Theme","a11y.menu":"Menu","a11y.top":"Back to top","a11y.trustRegion":"Why teams trust the platform","a11y.ecoHub":"VALO ecosystem hub","a11y.valostackNet":"ValoStack network",
     "phases.outcome":"Outcome.",
     "nav.approach":"Approach","nav.workforce":"Workforce","nav.trust":"Trust","nav.ecosystem":"Ecosystem","nav.pricing":"Pricing",
     "cta.start":"Start the conversation","cta.approach":"See the approach",
@@ -176,6 +177,7 @@
   };
 
   var vi = {
+    "a11y.skip":"Đến nội dung chính","a11y.home":"Trang chủ VALO Tech","a11y.navPrimary":"Điều hướng chính","a11y.theme":"Giao diện","a11y.menu":"Menu","a11y.top":"Lên đầu trang","a11y.trustRegion":"Vì sao các đội ngũ tin tưởng nền tảng này","a11y.ecoHub":"Sơ đồ hệ sinh thái VALO","a11y.valostackNet":"Mạng lưới ValoStack",
     "phases.outcome":"Kết quả.",
     "nav.approach":"Phương pháp","nav.workforce":"Đội ngũ AI","nav.trust":"Niềm tin","nav.ecosystem":"Hệ sinh thái","nav.pricing":"Chi phí",
     "cta.start":"Bắt đầu trao đổi","cta.approach":"Xem phương pháp",
@@ -329,6 +331,7 @@
   };
 
   var zh = {
+    "a11y.skip":"跳到主要内容","a11y.home":"VALO Tech 首页","a11y.navPrimary":"主导航","a11y.theme":"主题","a11y.menu":"菜单","a11y.top":"回到顶部","a11y.trustRegion":"企业为何信任这个平台","a11y.ecoHub":"VALO 生态中心","a11y.valostackNet":"ValoStack 网络",
     "phases.outcome":"成果。",
     "nav.approach":"方法","nav.workforce":"AI 团队","nav.trust":"信任","nav.ecosystem":"生态","nav.pricing":"费用",
     "cta.start":"开始交流","cta.approach":"了解方法",
@@ -482,6 +485,7 @@
   };
 
   var zt = {
+    "a11y.skip":"跳到主要內容","a11y.home":"VALO Tech 首頁","a11y.navPrimary":"主導覽","a11y.theme":"主題","a11y.menu":"選單","a11y.top":"回到頂部","a11y.trustRegion":"企業為何信任這個平台","a11y.ecoHub":"VALO 生態中心","a11y.valostackNet":"ValoStack 網路",
     "phases.outcome":"成果。",
     "nav.approach":"方法","nav.workforce":"AI 團隊","nav.trust":"信任","nav.ecosystem":"生態","nav.pricing":"費用",
     "cta.start":"開始交流","cta.approach":"了解方法",
@@ -635,6 +639,7 @@
   };
 
   var th = {
+    "a11y.skip":"ข้ามไปยังเนื้อหา","a11y.home":"หน้าแรก VALO Tech","a11y.navPrimary":"เมนูหลัก","a11y.theme":"ธีม","a11y.menu":"เมนู","a11y.top":"กลับขึ้นด้านบน","a11y.trustRegion":"เหตุใดทีมต่าง ๆ จึงไว้วางใจแพลตฟอร์มนี้","a11y.ecoHub":"แผนผังอีโคซิสเต็ม VALO","a11y.valostackNet":"เครือข่าย ValoStack",
     "phases.outcome":"ผลลัพธ์",
     "nav.approach":"แนวทาง","nav.workforce":"ทีม AI","nav.trust":"ความน่าเชื่อถือ","nav.ecosystem":"อีโคซิสเต็ม","nav.pricing":"ค่าบริการ",
     "cta.start":"เริ่มพูดคุยกับเรา","cta.approach":"ดูแนวทางของเรา",
@@ -788,6 +793,7 @@
   };
 
   var id = {
+    "a11y.skip":"Lewati ke konten","a11y.home":"Beranda VALO Tech","a11y.navPrimary":"Navigasi utama","a11y.theme":"Tema","a11y.menu":"Menu","a11y.top":"Kembali ke atas","a11y.trustRegion":"Alasan tim memercayai platform ini","a11y.ecoHub":"Hub ekosistem VALO","a11y.valostackNet":"Jaringan ValoStack",
     "phases.outcome":"Hasil.",
     "nav.approach":"Pendekatan","nav.workforce":"Tim AI","nav.trust":"Kepercayaan","nav.ecosystem":"Ekosistem","nav.pricing":"Biaya",
     "cta.start":"Mulai percakapan","cta.approach":"Lihat pendekatannya",
@@ -941,6 +947,7 @@
   };
 
   var ms = {
+    "a11y.skip":"Langkau ke kandungan","a11y.home":"Laman utama VALO Tech","a11y.navPrimary":"Navigasi utama","a11y.theme":"Tema","a11y.menu":"Menu","a11y.top":"Kembali ke atas","a11y.trustRegion":"Sebab pasukan mempercayai platform ini","a11y.ecoHub":"Hab ekosistem VALO","a11y.valostackNet":"Rangkaian ValoStack",
     "phases.outcome":"Hasil.",
     "nav.approach":"Pendekatan","nav.workforce":"Pasukan AI","nav.trust":"Kepercayaan","nav.ecosystem":"Ekosistem","nav.pricing":"Kos",
     "cta.start":"Mulakan perbualan","cta.approach":"Lihat pendekatannya",
@@ -1094,6 +1101,7 @@
   };
 
   var tl = {
+    "a11y.skip":"Lumaktaw sa nilalaman","a11y.home":"Home ng VALO Tech","a11y.navPrimary":"Pangunahing nabigasyon","a11y.theme":"Tema","a11y.menu":"Menu","a11y.top":"Bumalik sa itaas","a11y.trustRegion":"Bakit pinagkakatiwalaan ng mga team ang platform","a11y.ecoHub":"Hub ng ekosistema ng VALO","a11y.valostackNet":"Network ng ValoStack",
     "phases.outcome":"Resulta.",
     "nav.approach":"Pamamaraan","nav.workforce":"AI Workforce","nav.trust":"Tiwala","nav.ecosystem":"Ecosystem","nav.pricing":"Presyo",
     "cta.start":"Simulan ang usapan","cta.approach":"Tingnan ang pamamaraan",
@@ -1247,6 +1255,7 @@
   };
 
   var hi = {
+    "a11y.skip":"सामग्री पर जाएँ","a11y.home":"VALO Tech होम","a11y.navPrimary":"मुख्य नेविगेशन","a11y.theme":"थीम","a11y.menu":"मेन्यू","a11y.top":"ऊपर वापस जाएँ","a11y.trustRegion":"टीमें इस प्लैटफ़ॉर्म पर भरोसा क्यों करती हैं","a11y.ecoHub":"VALO इकोसिस्टम हब","a11y.valostackNet":"ValoStack नेटवर्क",
     "phases.outcome":"परिणाम।",
     "nav.approach":"पद्धति","nav.workforce":"AI टीम","nav.trust":"भरोसा","nav.ecosystem":"इकोसिस्टम","nav.pricing":"मूल्य",
     "cta.start":"बातचीत शुरू करें","cta.approach":"पद्धति देखें",
@@ -1400,6 +1409,7 @@
   };
 
   var es = {
+    "a11y.skip":"Saltar al contenido","a11y.home":"Inicio de VALO Tech","a11y.navPrimary":"Navegación principal","a11y.theme":"Tema","a11y.menu":"Menú","a11y.top":"Volver arriba","a11y.trustRegion":"Por qué los equipos confían en la plataforma","a11y.ecoHub":"Centro del ecosistema VALO","a11y.valostackNet":"Red de ValoStack",
     "phases.outcome":"Resultado.",
     "nav.approach":"Enfoque","nav.workforce":"Equipo de IA","nav.trust":"Confianza","nav.ecosystem":"Ecosistema","nav.pricing":"Coste",
     "cta.start":"Inicie la conversación","cta.approach":"Conozca el enfoque",
@@ -1553,6 +1563,7 @@
   };
 
   var ar = {
+    "a11y.skip":"تخطَّ إلى المحتوى","a11y.home":"الصفحة الرئيسية لـ VALO Tech","a11y.navPrimary":"التنقل الرئيسي","a11y.theme":"السمة","a11y.menu":"القائمة","a11y.top":"العودة إلى الأعلى","a11y.trustRegion":"لماذا تثق الفرق بالمنصة","a11y.ecoHub":"مركز منظومة VALO","a11y.valostackNet":"شبكة ValoStack",
     "phases.outcome":"النتيجة.",
     "nav.approach":"المنهجية","nav.workforce":"فريق الذكاء الاصطناعي","nav.trust":"الثقة","nav.ecosystem":"المنظومة","nav.pricing":"الأسعار",
     "cta.start":"لنبدأ الحوار","cta.approach":"تعرّف على المنهجية",
@@ -1706,6 +1717,7 @@
   };
 
   var fr = {
+    "a11y.skip":"Aller au contenu","a11y.home":"Accueil VALO Tech","a11y.navPrimary":"Navigation principale","a11y.theme":"Thème","a11y.menu":"Menu","a11y.top":"Retour en haut","a11y.trustRegion":"Pourquoi les équipes font confiance à la plateforme","a11y.ecoHub":"Pôle de l'écosystème VALO","a11y.valostackNet":"Réseau ValoStack",
     "phases.outcome":"Résultat.",
     "nav.approach":"Approche","nav.workforce":"Équipe d'IA","nav.trust":"Confiance","nav.ecosystem":"Écosystème","nav.pricing":"Tarifs",
     "cta.start":"Engager la conversation","cta.approach":"Découvrir l'approche",
@@ -1859,6 +1871,7 @@
   };
 
   var bn = {
+    "a11y.skip":"মূল কন্টেন্টে যান","a11y.home":"VALO Tech হোম","a11y.navPrimary":"প্রধান নেভিগেশন","a11y.theme":"থিম","a11y.menu":"মেনু","a11y.top":"উপরে ফিরে যান","a11y.trustRegion":"কেন দলগুলো এই প্ল্যাটফর্মে আস্থা রাখে","a11y.ecoHub":"VALO ইকোসিস্টেম হাব","a11y.valostackNet":"ValoStack নেটওয়ার্ক",
     "phases.outcome":"ফলাফল।",
     "nav.approach":"পদ্ধতি","nav.workforce":"AI টিম","nav.trust":"আস্থা","nav.ecosystem":"ইকোসিস্টেম","nav.pricing":"খরচ",
     "cta.start":"কথা বলা শুরু করুন","cta.approach":"পদ্ধতিটি দেখুন",
@@ -2012,6 +2025,7 @@
   };
 
   var pt = {
+    "a11y.skip":"Saltar para o conteúdo","a11y.home":"Início VALO Tech","a11y.navPrimary":"Navegação principal","a11y.theme":"Tema","a11y.menu":"Menu","a11y.top":"Voltar ao topo","a11y.trustRegion":"Porque as equipas confiam na plataforma","a11y.ecoHub":"Centro do ecossistema VALO","a11y.valostackNet":"Rede ValoStack",
     "phases.outcome":"Resultado.",
     "nav.approach":"Abordagem","nav.workforce":"Equipa de IA","nav.trust":"Confiança","nav.ecosystem":"Ecossistema","nav.pricing":"Custos",
     "cta.start":"Começar a conversa","cta.approach":"Ver a abordagem",
@@ -2165,6 +2179,7 @@
   };
 
   var ru = {
+    "a11y.skip":"Перейти к содержимому","a11y.home":"Главная VALO Tech","a11y.navPrimary":"Основная навигация","a11y.theme":"Тема","a11y.menu":"Меню","a11y.top":"Наверх","a11y.trustRegion":"Почему компании доверяют платформе","a11y.ecoHub":"Центр экосистемы VALO","a11y.valostackNet":"Сеть ValoStack",
     "phases.outcome":"Итог.",
     "nav.approach":"Подход","nav.workforce":"Команда ИИ","nav.trust":"Доверие","nav.ecosystem":"Экосистема","nav.pricing":"Стоимость",
     "cta.start":"Начать разговор","cta.approach":"Узнать о подходе",
@@ -2318,6 +2333,7 @@
   };
 
   var ur = {
+    "a11y.skip":"مواد پر جائیں","a11y.home":"VALO Tech ہوم","a11y.navPrimary":"بنیادی نیویگیشن","a11y.theme":"تھیم","a11y.menu":"مینو","a11y.top":"اوپر واپس جائیں","a11y.trustRegion":"ٹیمیں اس پلیٹ فارم پر کیوں بھروسا کرتی ہیں","a11y.ecoHub":"VALO ایکو سسٹم حب","a11y.valostackNet":"ValoStack نیٹ ورک",
     "phases.outcome":"نتیجہ۔",
     "nav.approach":"طریقہ کار","nav.workforce":"AI ٹیم","nav.trust":"اعتماد","nav.ecosystem":"ایکو سسٹم","nav.pricing":"قیمت",
     "cta.start":"گفتگو کا آغاز کیجیے","cta.approach":"ہمارا طریقہ کار دیکھیے",
@@ -2471,6 +2487,7 @@
   };
 
   var de = {
+    "a11y.skip":"Zum Inhalt springen","a11y.home":"VALO Tech Startseite","a11y.navPrimary":"Hauptnavigation","a11y.theme":"Design","a11y.menu":"Menü","a11y.top":"Nach oben","a11y.trustRegion":"Warum Teams der Plattform vertrauen","a11y.ecoHub":"VALO Ökosystem-Hub","a11y.valostackNet":"ValoStack-Netzwerk",
     "phases.outcome":"Ergebnis.",
     "nav.approach":"Ansatz","nav.workforce":"KI-Team","nav.trust":"Vertrauen","nav.ecosystem":"Ökosystem","nav.pricing":"Preise",
     "cta.start":"Das Gespräch beginnen","cta.approach":"Den Ansatz kennenlernen",
@@ -2624,6 +2641,7 @@
   };
 
   var ja = {
+    "a11y.skip":"コンテンツへスキップ","a11y.home":"VALO Tech ホーム","a11y.navPrimary":"メインナビゲーション","a11y.theme":"テーマ","a11y.menu":"メニュー","a11y.top":"トップへ戻る","a11y.trustRegion":"チームがこのプラットフォームを信頼する理由","a11y.ecoHub":"VALO エコシステムハブ","a11y.valostackNet":"ValoStack ネットワーク",
     "phases.outcome":"成果。",
     "nav.approach":"アプローチ","nav.workforce":"AI チーム","nav.trust":"信頼","nav.ecosystem":"エコシステム","nav.pricing":"料金",
     "cta.start":"まずはお話ししましょう","cta.approach":"アプローチを見る",
@@ -2777,6 +2795,7 @@
   };
 
   var tr = {
+    "a11y.skip":"İçeriğe geç","a11y.home":"VALO Tech ana sayfa","a11y.navPrimary":"Ana gezinme","a11y.theme":"Tema","a11y.menu":"Menü","a11y.top":"Yukarı dön","a11y.trustRegion":"Ekipler platforma neden güveniyor","a11y.ecoHub":"VALO ekosistem merkezi","a11y.valostackNet":"ValoStack ağı",
     "phases.outcome":"Sonuç.",
     "nav.approach":"Yaklaşım","nav.workforce":"AI ekibi","nav.trust":"Güven","nav.ecosystem":"Ekosistem","nav.pricing":"Fiyatlandırma",
     "cta.start":"Görüşmeyi başlatın","cta.approach":"Yaklaşımı inceleyin",
@@ -2930,6 +2949,7 @@
   };
 
   var ko = {
+    "a11y.skip":"본문으로 건너뛰기","a11y.home":"VALO Tech 홈","a11y.navPrimary":"기본 내비게이션","a11y.theme":"테마","a11y.menu":"메뉴","a11y.top":"맨 위로","a11y.trustRegion":"기업이 이 플랫폼을 신뢰하는 이유","a11y.ecoHub":"VALO 에코시스템 허브","a11y.valostackNet":"ValoStack 네트워크",
     "phases.outcome":"성과.",
     "nav.approach":"접근 방식","nav.workforce":"AI 인력","nav.trust":"신뢰","nav.ecosystem":"에코시스템","nav.pricing":"가격",
     "cta.start":"먼저 이야기를 나눠보세요","cta.approach":"접근 방식 살펴보기",

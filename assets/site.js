@@ -29,6 +29,9 @@
     doc.querySelectorAll("[data-i18n-html]").forEach(function (el) {
       el.innerHTML = tr(loc, el.getAttribute("data-i18n-html"));
     });
+    doc.querySelectorAll("[data-i18n-aria]").forEach(function (el) {
+      el.setAttribute("aria-label", tr(loc, el.getAttribute("data-i18n-aria")));
+    });
     var lbl = doc.getElementById("langLabel");
     if (lbl) lbl.textContent = loc.toUpperCase();
     var lf = doc.getElementById("langFlag");
