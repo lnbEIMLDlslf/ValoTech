@@ -2333,7 +2333,7 @@
   };
 
   var ur = {
-    "a11y.skip":"مواد پر جائیں","a11y.home":"VALO Tech ہوم","a11y.navPrimary":"بنیادی نیویگیشن","a11y.theme":"تھیم","a11y.menu":"مینو","a11y.top":"اوپر واپس جائیں","a11y.trustRegion":"ٹیمیں اس پلیٹ فارم پر کیوں بھروسا کرتی ہیں","a11y.ecoHub":"VALO ایکو سسٹم حب","a11y.valostackNet":"ValoStack نیٹ ورک",
+    "a11y.skip":"مواد پر جائیں","a11y.home":"VALO Tech ہوم","a11y.navPrimary":"بنیادی نیویگیشن","a11y.theme":"تھیم","a11y.menu":"مینو","a11y.top":"اوپر واپس جائیں","a11y.trustRegion":"ٹیمیں اس پلیٹ فارم پر کیوں بھروسا کرتی ہیں","a11y.ecoHub":"VALO ایکو سسٹم ہب","a11y.valostackNet":"ValoStack نیٹ ورک",
     "phases.outcome":"نتیجہ۔",
     "nav.approach":"طریقہ کار","nav.workforce":"AI ٹیم","nav.trust":"اعتماد","nav.ecosystem":"ایکو سسٹم","nav.pricing":"قیمت",
     "cta.start":"گفتگو کا آغاز کیجیے","cta.approach":"ہمارا طریقہ کار دیکھیے",
