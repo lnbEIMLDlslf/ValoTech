@@ -45,7 +45,7 @@ VALO Tech Content for Homepage.html  BD-prepared source content
 SEA-priority `en zh zt vi th id ms tl` + Global `hi es ar fr bn pt ru ur de ja tr ko`.
 
 - **English is the source of truth.** Every other locale is authored in full to a formal, natural register, with product names and technical terms (agent, cloud, audit, CRM, ERP, PoC, BI, markdown) kept in English.
-- All 20 are complete: every visible string plus the skip link and the `aria-label`s on controls, regions, and diagrams are translated, applied by `site.js` via `data-i18n` / `data-i18n-html` / `data-i18n-aria`.
+- All 20 are authored in full: the page copy, the skip link, and the `aria-label`s on controls, regions, and diagrams are translated, applied by `site.js` via `data-i18n` / `data-i18n-html` / `data-i18n-aria`. Brand names and the small fixed-position labels inside the ValoStack SVG diagram stay in English by design (the circles are too tight to hold localized text).
 - RTL (`ar`, `ur`) flips `dir`; the user's choice persists in `localStorage`, otherwise the browser language is matched.
 
 ## Preview locally
